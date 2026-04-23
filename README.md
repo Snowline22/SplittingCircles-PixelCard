@@ -3,7 +3,7 @@
 
 核心功能是用户上传图片后，通过鼠标/触摸滑动分裂圆点来逐步揭示图片内容，最终生成个性化贺卡。
 
-本地运行particle.html文件
+示例：
 <img width="1724" height="1334" alt="image" src="https://github.com/user-attachments/assets/a62f0f34-92f6-455d-800a-62f2e89f2d02" />
 
 
